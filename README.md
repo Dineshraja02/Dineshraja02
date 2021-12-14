@@ -7,4 +7,4 @@ AKRaavanan/AKRaavanan is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=AKRaavanan&theme=synthwave&show_icons=true&count_private=true “AKRaavanan’ GutHub Stats”)
+![Dinesh’ GitHub stats](https://github-readme-stats.vercel.app/api?username=AKRaavanan&theme=synthwave&show_icons=true&count_private=true “AKRaavanan’ GutHub Stats”)
