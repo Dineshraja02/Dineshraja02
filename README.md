@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **mern stack development**
 
-- 👨‍💻 All of my projects are available at [https://dineshs-portfolio.netlify.app/](https://portfolio-dineshraja.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dineshs-portfolio.netlify.app/](https://dineshs-portfolio.netlify.app/)
 
 - 📫 How to reach me **dineshraja0403@gmail.com**
 
