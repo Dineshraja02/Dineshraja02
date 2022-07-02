@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-- 🌱 I’m currently working as a **mern stack development** in Brugu software solutions
+- 🌱 I’m currently working as a **mern stack development** in Gaipp Pvt ltd
 
 - 👨‍💻 All of my projects are available at [https://dineshs-portfolio.netlify.app/](https://dineshs-portfolio.netlify.app/)
 
